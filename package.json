@@ -1,0 +1,16 @@
+{
+  "name": "TodoAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wenega Wama",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts":{
+    "dev":"nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
